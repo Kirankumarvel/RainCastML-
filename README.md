@@ -123,4 +123,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 🌦️ Built with ❤️ by [Kirankumarvel](https://github.com/Kirankumarvel)
 
-Would you like a `requirements.txt` file or a badge-rich version of this README with GitHub Actions/Notebook links too?
